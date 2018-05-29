@@ -83,13 +83,11 @@ class AccountInvoice(models.Model):
 
     @api.depends('integration_ids', 'partner_id')
     def _compute_can_integrate(self):
-        for method in self.partner_id.invoice_integration_method_ids:
-            if not self.env['account.invoice.integration'].search(
-                    [('invoice_id', '=', self.id),
-                     ('method_id', '=', method.id)]):
-                self.can_integrate = True
-                return
-        self.can_integrate = False
+        for invoice in self:
+            for method in invoice.partner_id.invoice_integration_method_ids:
+                if method not in invoice.integration_ids:
+                    invoice.can_integrate = True
+                    break
 
     can_integrate = fields.Boolean(compute="_compute_can_integrate")
 
