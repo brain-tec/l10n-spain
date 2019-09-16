@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-l10n-spain Odoo addons",
     version=version,
     install_requires=[
+        'odoo12-addon-l10n_es_account_asset',
         'odoo12-addon-l10n_es_account_bank_statement_import_n43',
         'odoo12-addon-l10n_es_account_banking_sepa_fsdd',
         'odoo12-addon-l10n_es_account_invoice_sequence',
@@ -23,6 +24,7 @@ setuptools.setup(
         'odoo12-addon-l10n_es_aeat_mod390',
         'odoo12-addon-l10n_es_aeat_sii',
         'odoo12-addon-l10n_es_dua',
+        'odoo12-addon-l10n_es_dua_sii',
         'odoo12-addon-l10n_es_facturae',
         'odoo12-addon-l10n_es_facturae_face',
         'odoo12-addon-l10n_es_irnr',
