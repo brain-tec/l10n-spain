@@ -64,14 +64,17 @@ Consideraciones adicionales:
   evitar que los usuarios olviden informarlo es recomendable instalar el
   módulo 'account_invoice_tax_required', disponible en
   `account_invoice_tax_required <https://github.com/OCA/account-financial-
-  tools/tree/11.0>`_.
+  tools/tree/10.0>`_.
 
 Configuration
 =============
 
 Los códigos de impuestos incluidos en el Libro de IVA pueden verse en:
-Contabilidad -> Configuración -> AEAT -> Mapeo de códigos de impuesto ->
-Declaración AEAT 340
+Contabilidad -> Configuración -> AEAT -> Mapeo AEAT libro de IVA
+
+Los clientes utilizados para ventas por caja deben tener marcado el campo
+"AEAT - Cliente anónimo" para que no se muestren advertencias por no tener NIF
+informado siguiendo lo especificado en el formato BOE.
 
 Usage
 =====
@@ -87,8 +90,7 @@ Known issues / Roadmap
 
 Funcionalidades del Libro Registro de IVA no incluídas por el momento:
 
-* Libro Registro de Bienes de Inversión
-* Libro Registro de Determinadas Operaciones Intracomunitarias
+* Criterio de caja
 
 Bug Tracker
 ===========
@@ -109,6 +111,7 @@ Authors
 * PRAXYA
 * Eficent
 * Tecnativa
+* Punt Sistemes
 
 Contributors
 ~~~~~~~~~~~~
@@ -119,6 +122,11 @@ Contributors
 * `Tecnativa <https://www.tecnativa.com/>`_:
 
   * Pedro M. Baeza
+  * Carlos Dauden
+* `Punt Sistemes <https://www.puntsistemes.es/>`_:
+
+  * Isaac Gallart
+  * Pedro Ortega
 
 Maintainers
 ~~~~~~~~~~~
