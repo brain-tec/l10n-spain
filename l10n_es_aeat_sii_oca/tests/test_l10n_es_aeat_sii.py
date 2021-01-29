@@ -1,5 +1,5 @@
 # Copyright 2017 FactorLibre - Ismael Calvo <ismael.calvo@factorlibre.com>
-# Copyright 2017-2020 Tecnativa - Pedro M. Baeza
+# Copyright 2017-2021 Tecnativa - Pedro M. Baeza
 # Copyright 2018 PESOL - Angel Moya <angel.moya@pesol.es>
 # Copyright 2020 Valentin Vinagre <valent.vinagre@sygel.es>
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html)
@@ -206,6 +206,40 @@ class TestL10nEsAeatSii(TestL10nEsAeatSiiBase):
                 "in_invoice",
                 [(100, ["p_iva0_ns"]), (200, ["p_iva10_bc"])],
                 {"ref": "sup0005", "sii_account_registration_date": "2020-10-01"},
+            ),
+            # Out invoice with currency
+            ("out_invoice", [(100, ["s_iva10b"])], {"currency_id": self.usd.id}),
+            # Out invoice with currency and with not included in total amount
+            (
+                "out_invoice",
+                [(100, ["s_iva10b", "s_irpf1"])],
+                {"currency_id": self.usd.id},
+            ),
+            # In invoice with currency
+            (
+                "in_invoice",
+                [(100, ["p_iva10_bc"])],
+                {
+                    "ref": "sup0006",
+                    "sii_account_registration_date": "2020-10-01",
+                    "currency_id": self.usd.id,
+                },
+            ),
+            # In invoice with currency and with not included in total amount
+            (
+                "in_invoice",
+                [(100, ["p_iva10_bc", "p_irpf1"])],
+                {
+                    "ref": "sup0007",
+                    "sii_account_registration_date": "2020-10-01",
+                    "currency_id": self.usd.id,
+                },
+            ),
+            # Intra-community supplier refund with ImporteTotal with "one side"
+            (
+                "in_refund",
+                [(100, ["p_iva21_sp_in"])],
+                {"ref": "sup0008", "sii_account_registration_date": "2020-10-01"},
             ),
         ]
         for inv_type, lines, extra_vals in mapping:
