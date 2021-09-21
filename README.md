@@ -30,7 +30,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 14.0.1.0.1 |  | AEAT modelo 347
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 14.0.1.1.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Modelo 349 AEAT
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 14.0.1.2.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 390
-[l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 14.0.1.7.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
+[l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 14.0.1.7.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
 [l10n_es_dua](l10n_es_dua/) | 14.0.1.1.0 |  | Importaciones con DUA
 [l10n_es_dua_sii](l10n_es_dua_sii/) | 14.0.1.0.0 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_intrastat_report](l10n_es_intrastat_report/) | 14.0.1.0.1 |  | Spanish Intrastat Product Declaration
@@ -38,7 +38,7 @@ addon | version | maintainers | summary
 [l10n_es_partner](l10n_es_partner/) | 14.0.1.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Adaptación de los clientes, proveedores y bancos para España
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 14.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_pos](l10n_es_pos/) | 14.0.1.1.0 |  | Punto de venta adaptado a la legislación española
-[l10n_es_ticketbai](l10n_es_ticketbai/) | 14.0.1.0.2 | [![ljsalvatierra-binovo](https://github.com/ljsalvatierra-binovo.png?size=30px)](https://github.com/ljsalvatierra-binovo) [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
+[l10n_es_ticketbai](l10n_es_ticketbai/) | 14.0.1.0.3 | [![ljsalvatierra-binovo](https://github.com/ljsalvatierra-binovo.png?size=30px)](https://github.com/ljsalvatierra-binovo) [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
 [l10n_es_ticketbai_api](l10n_es_ticketbai_api/) | 14.0.1.1.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - API
 [l10n_es_toponyms](l10n_es_toponyms/) | 14.0.1.0.0 |  | Topónimos españoles
 [l10n_es_vat_book](l10n_es_vat_book/) | 14.0.1.3.1 |  | Libro de IVA
