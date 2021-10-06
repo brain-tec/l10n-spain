@@ -19,6 +19,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[delivery_dhl_parcel](delivery_dhl_parcel/) | 14.0.1.0.0 |  | Delivery Carrier implementation for DHL Parcel using their API
 [l10n_es_account_asset](l10n_es_account_asset/) | 14.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Gestión de activos fijos para España
 [l10n_es_account_banking_sepa_fsdd](l10n_es_account_banking_sepa_fsdd/) | 14.0.1.0.0 |  | Account Banking Sepa - FSDD (Anticipos de crédito)
 [l10n_es_account_statement_import_n43](l10n_es_account_statement_import_n43/) | 14.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Importación de extractos bancarios españoles (Norma 43)
@@ -32,6 +33,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 14.0.1.2.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 390
 [l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 14.0.1.7.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
 [l10n_es_aeat_vat_prorrate](l10n_es_aeat_vat_prorrate/) | 14.0.1.0.0 |  | AEAT - Prorrata de IVA
+[l10n_es_aeat_vat_prorrate_asset](l10n_es_aeat_vat_prorrate_asset/) | 14.0.1.0.0 |  | AEAT - Prorrata de IVA - Extensión para los activos
 [l10n_es_dua](l10n_es_dua/) | 14.0.1.1.0 |  | Importaciones con DUA
 [l10n_es_dua_sii](l10n_es_dua_sii/) | 14.0.1.1.0 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_intrastat_report](l10n_es_intrastat_report/) | 14.0.1.0.1 |  | Spanish Intrastat Product Declaration

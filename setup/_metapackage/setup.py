@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-l10n-spain Odoo addons",
     version=version,
     install_requires=[
+        'odoo14-addon-delivery_dhl_parcel',
         'odoo14-addon-l10n_es_account_asset',
         'odoo14-addon-l10n_es_account_banking_sepa_fsdd',
         'odoo14-addon-l10n_es_account_statement_import_n43',
@@ -21,6 +22,7 @@ setuptools.setup(
         'odoo14-addon-l10n_es_aeat_mod390',
         'odoo14-addon-l10n_es_aeat_sii_oca',
         'odoo14-addon-l10n_es_aeat_vat_prorrate',
+        'odoo14-addon-l10n_es_aeat_vat_prorrate_asset',
         'odoo14-addon-l10n_es_dua',
         'odoo14-addon-l10n_es_dua_sii',
         'odoo14-addon-l10n_es_intrastat_report',
