@@ -20,6 +20,7 @@ setuptools.setup(
         'odoo14-addon-l10n_es_aeat_mod347',
         'odoo14-addon-l10n_es_aeat_mod349',
         'odoo14-addon-l10n_es_aeat_mod390',
+        'odoo14-addon-l10n_es_aeat_partner_check',
         'odoo14-addon-l10n_es_aeat_sii_oca',
         'odoo14-addon-l10n_es_aeat_vat_prorrate',
         'odoo14-addon-l10n_es_aeat_vat_prorrate_asset',
@@ -35,6 +36,7 @@ setuptools.setup(
         'odoo14-addon-l10n_es_ticketbai_api',
         'odoo14-addon-l10n_es_toponyms',
         'odoo14-addon-l10n_es_vat_book',
+        'odoo14-addon-l10n_es_vat_book_oss',
         'odoo14-addon-payment_redsys',
     ],
     classifiers=[
