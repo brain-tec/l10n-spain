@@ -29,6 +29,10 @@
                                 attrs="{'required': [('delivery_type', '=', 'dhl_parcel')]}"
                             />
                             <field
+                                name="dhl_parcel_product"
+                                attrs="{'required': [('delivery_type', '=', 'dhl_parcel')]}"
+                            />
+                            <field
                                 name="dhl_parcel_last_end_day_report"
                                 filename="dhl_parcel_last_end_day_report_name"
                             />
@@ -36,19 +40,6 @@
                                 name="dhl_parcel_last_end_day_report_name"
                                 invisible="1"
                             />
-                        </group>
-                    </group>
-                </page>
-            </xpath>
-            <xpath expr="//notebook" position='inside'>
-                <page
-                    string="Technical"
-                    attrs="{'invisible': [('delivery_type', '!=', 'dhl_parcel')]}"
-                >
-                    <group>
-                        <group>
-                            <field name="dhl_parcel_last_request" />
-                            <field name="dhl_parcel_last_response" />
                         </group>
                     </group>
                 </page>
