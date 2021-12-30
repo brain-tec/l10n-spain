@@ -55,6 +55,11 @@ msgid "Art. 80.4"
 msgstr ""
 
 #. module: l10n_es_ticketbai
+#: model:ir.model.fields.selection,name:l10n_es_ticketbai.selection__res_company__tbai_description_method__auto
+msgid "Automatic"
+msgstr ""
+
+#. module: l10n_es_ticketbai
 #: model:ir.model.fields,help:l10n_es_ticketbai.field_account_bank_statement_line__tbai_refund_key
 #: model:ir.model.fields,help:l10n_es_ticketbai.field_account_move__tbai_refund_key
 #: model:ir.model.fields,help:l10n_es_ticketbai.field_account_payment__tbai_refund_key
@@ -213,6 +218,11 @@ msgid "Fiscal Position Template"
 msgstr ""
 
 #. module: l10n_es_ticketbai
+#: model:ir.model.fields.selection,name:l10n_es_ticketbai.selection__res_company__tbai_description_method__fixed
+msgid "Fixed"
+msgstr ""
+
+#. module: l10n_es_ticketbai
 #: model:ir.ui.menu,name:l10n_es_ticketbai.menu_finance_ticketbai_general_info
 msgid "General Info"
 msgstr ""
@@ -324,8 +334,22 @@ msgid "Link between a validated Customer Invoice and its substitute."
 msgstr ""
 
 #. module: l10n_es_ticketbai
+#: model:ir.model.fields.selection,name:l10n_es_ticketbai.selection__res_company__tbai_description_method__manual
+msgid "Manual"
+msgstr ""
+
+#. module: l10n_es_ticketbai
 #: model_terms:ir.ui.view,arch_db:l10n_es_ticketbai.view_move_form_inherit
 msgid "Messages"
+msgstr ""
+
+#. module: l10n_es_ticketbai
+#: model:ir.model.fields,help:l10n_es_ticketbai.field_res_company__tbai_description_method
+msgid ""
+"Method for the TicketBAI invoices description, can be one of these:\n"
+"- Automatic: the description will be the join of the invoice   lines description\n"
+"- Fixed: the description write on the below field 'TBAI   Description'\n"
+"- Manual (by default): It will be necessary to manually enter   the description on each invoice"
 msgstr ""
 
 #. module: l10n_es_ticketbai
@@ -468,6 +492,13 @@ msgid "Template for Fiscal Position"
 msgstr ""
 
 #. module: l10n_es_ticketbai
+#: model:ir.model.fields,help:l10n_es_ticketbai.field_res_company__tbai_description
+msgid ""
+"The description for invoices. Only used when the field TicketBAI Description"
+" Method is 'Fixed'."
+msgstr ""
+
+#. module: l10n_es_ticketbai
 #: model:ir.ui.menu,name:l10n_es_ticketbai.menu_finance_ticketbai
 #: model:ir.ui.menu,name:l10n_es_ticketbai.menu_l10n_es_tbai_config
 #: model_terms:ir.ui.view,arch_db:l10n_es_ticketbai.view_account_position_form_inherit
@@ -503,6 +534,16 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_es_ticketbai.field_account_move__tbai_cancellation_ids
 #: model:ir.model.fields,field_description:l10n_es_ticketbai.field_account_payment__tbai_cancellation_ids
 msgid "TicketBAI Cancellations"
+msgstr ""
+
+#. module: l10n_es_ticketbai
+#: model:ir.model.fields,field_description:l10n_es_ticketbai.field_res_company__tbai_description
+msgid "TicketBAI Description"
+msgstr ""
+
+#. module: l10n_es_ticketbai
+#: model:ir.model.fields,field_description:l10n_es_ticketbai.field_res_company__tbai_description_method
+msgid "TicketBAI Description Method"
 msgstr ""
 
 #. module: l10n_es_ticketbai
