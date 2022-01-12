@@ -47,6 +47,7 @@ class ResPartner(models.Model):
                     )
 
     def tbai_get_partner_country_code(self):
+        self.ensure_one()
         country_code, vat_number = (
             self.vat and tbai_utils.split_vat(self.vat) or (None, None)
         )
@@ -56,6 +57,8 @@ class ResPartner(models.Model):
             country_code = country_code
         elif self.country_id:
             country_code = self.country_id.code
+        if not country_code:
+            raise exceptions.ValidationError(_("Incorrect country code."))
         return country_code.upper()
 
     def tbai_get_partner_vat_number(self):
@@ -72,11 +75,8 @@ class ResPartner(models.Model):
             <maxLength value="120"/>
         :return: Name and surname, or business name
         """
-        if 120 < len(self.name.strip()):
-            raise exceptions.ValidationError(
-                _("Name %s too long. Should be 120 characters max.!") % self.name
-            )
-        return self.name.strip()  # Remove leading and trailing whitespace
+        name = self.commercial_partner_id.name
+        return name.strip()[:120]  # Remove leading and trailing whitespace
 
     def tbai_get_value_nif(self):
         """ V 1.2

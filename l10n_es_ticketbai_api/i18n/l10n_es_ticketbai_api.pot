@@ -457,6 +457,12 @@ msgid "Identification Type Code"
 msgstr ""
 
 #. module: l10n_es_ticketbai_api
+#: code:addons/l10n_es_ticketbai_api/models/res_partner.py:0
+#, python-format
+msgid "Incorrect country code."
+msgstr ""
+
+#. module: l10n_es_ticketbai_api
 #: code:addons/l10n_es_ticketbai_api/utils/utils.py:0
 #: code:addons/l10n_es_ticketbai_api/utils/utils.py:0
 #: code:addons/l10n_es_ticketbai_api/utils/utils.py:0
@@ -562,12 +568,6 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_es_ticketbai_api.field_tbai_invoice__name
 #: model:ir.model.fields,field_description:l10n_es_ticketbai_api.field_tbai_invoice_customer__name
 msgid "Name"
-msgstr ""
-
-#. module: l10n_es_ticketbai_api
-#: code:addons/l10n_es_ticketbai_api/models/res_partner.py:0
-#, python-format
-msgid "Name %s too long. Should be 120 characters max.!"
 msgstr ""
 
 #. module: l10n_es_ticketbai_api
