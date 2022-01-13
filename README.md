@@ -1,5 +1,6 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/189/14.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-spain-189)
-[![Build Status](https://travis-ci.com/OCA/l10n-spain.svg?branch=14.0)](https://travis-ci.com/OCA/l10n-spain)
+[![Pre-commit Status](https://github.com/OCA/l10n-spain/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/l10n-spain/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/l10n-spain/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/l10n-spain/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/l10n-spain/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-spain)
 [![Translation Status](https://translation.odoo-community.org/widgets/l10n-spain-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-spain-14-0/?utm_source=widget)
 
@@ -47,7 +48,7 @@ addon | version | maintainers | summary
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 14.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_pos](l10n_es_pos/) | 14.0.1.1.0 |  | Punto de venta adaptado a la legislación española
 [l10n_es_ticketbai](l10n_es_ticketbai/) | 14.0.1.1.0 | [![ljsalvatierra-binovo](https://github.com/ljsalvatierra-binovo.png?size=30px)](https://github.com/ljsalvatierra-binovo) [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
-[l10n_es_ticketbai_api](l10n_es_ticketbai_api/) | 14.0.1.1.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - API
+[l10n_es_ticketbai_api](l10n_es_ticketbai_api/) | 14.0.1.1.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - API
 [l10n_es_toponyms](l10n_es_toponyms/) | 14.0.1.0.0 |  | Topónimos españoles
 [l10n_es_vat_book](l10n_es_vat_book/) | 14.0.1.3.2 |  | Libro de IVA
 [l10n_es_vat_book_oss](l10n_es_vat_book_oss/) | 14.0.1.0.0 |  | Libro de IVA OSS
