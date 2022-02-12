@@ -910,7 +910,7 @@ msgid "Tax Agency name"
 msgstr ""
 
 #. module: l10n_es_ticketbai_api
-#: code:addons/l10n_es_ticketbai_api/models/res_company.py:131
+#: code:addons/l10n_es_ticketbai_api/models/res_company.py:101
 #, python-format
 msgid "Tax agency cannot be modified after a TicketBAI invoice has been sent."
 msgstr ""
@@ -1022,7 +1022,7 @@ msgid "TicketBAI Certificates"
 msgstr ""
 
 #. module: l10n_es_ticketbai_api
-#: code:addons/l10n_es_ticketbai_api/models/res_company.py:164
+#: code:addons/l10n_es_ticketbai_api/models/res_company.py:163
 #, python-format
 msgid "TicketBAI Developer %s VAT Number or another type of identification is required."
 msgstr ""
