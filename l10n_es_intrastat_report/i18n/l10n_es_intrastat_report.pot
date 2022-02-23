@@ -387,6 +387,18 @@ msgid "Messages"
 msgstr ""
 
 #. module: l10n_es_intrastat_report
+#: code:addons/l10n_es_intrastat_report/models/l10n_es_intrastat_product_declaration.py:63
+#, python-format
+msgid "Missing origin country on product %s."
+msgstr ""
+
+#. module: l10n_es_intrastat_report
+#: code:addons/l10n_es_intrastat_report/models/l10n_es_intrastat_product_declaration.py:57
+#, python-format
+msgid "Missing partner vat on invoice %s."
+msgstr ""
+
+#. module: l10n_es_intrastat_report
 #: model:ir.model.fields,field_description:l10n_es_intrastat_report.field_l10n_es_intrastat_product_declaration__month
 msgid "Month"
 msgstr ""
@@ -503,7 +515,7 @@ msgid "Supplementary Units Quantity"
 msgstr ""
 
 #. module: l10n_es_intrastat_report
-#: code:addons/l10n_es_intrastat_report/models/l10n_es_intrastat_product_declaration.py:60
+#: code:addons/l10n_es_intrastat_report/models/l10n_es_intrastat_product_declaration.py:71
 #, python-format
 msgid "The Spanish Intrastat Declaration requires the Company's Country to be equal to 'Spain'."
 msgstr ""
