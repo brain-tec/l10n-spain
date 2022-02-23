@@ -66,7 +66,8 @@ class AccountInvoice(models.Model):
     @api.constrains('state')
     def _check_cancel_number_invoice(self):
         for record in self:
-            if record.tbai_enabled and 'draft' == record.state and record.number:
+            if record.type in ('out_invoice', 'out_refund') and \
+                    record.tbai_enabled and 'draft' == record.state and record.number:
                 raise exceptions.ValidationError(_(
                     "Invoice %s. You cannot change to draft a numbered invoice!"
                 ) % record.number)
@@ -156,6 +157,14 @@ class AccountInvoice(models.Model):
                             "Customer Credit Notes.")
                     }
                 }
+
+    @api.onchange('refund_invoice_id')
+    def onchange_tbai_refund_invoice_id(self):
+        if self.refund_invoice_id:
+            if not self.tbai_refund_type:
+                self.tbai_refund_type = RefundType.differences.value
+            if not self.tbai_refund_key:
+                self.tbai_refund_key = RefundCode.R1.value
 
     def tbai_prepare_invoice_values(self):
 
@@ -374,9 +383,12 @@ class AccountInvoice(models.Model):
         tbai_invoices = self.sudo().env['account.invoice']
         tbai_invoices |= self.sudo().filtered(
             lambda x: x.tbai_enabled and 'out_invoice' == x.type)
-        refund_invoices = self.sudo().filtered(
-            lambda x: x.tbai_enabled and 'out_refund' == x.type and
-            x.tbai_refund_type == RefundType.differences.value)
+        refund_invoices = \
+            self.sudo().filtered(
+                lambda x:
+                x.tbai_enabled and 'out_refund' == x.type and
+                not x.tbai_refund_type or
+                x.tbai_refund_type == RefundType.differences.value)
 
         validate_refund_invoices()
         tbai_invoices |= refund_invoices
