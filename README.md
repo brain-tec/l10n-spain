@@ -21,7 +21,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [delivery_dhl_parcel](delivery_dhl_parcel/) | 14.0.1.2.1 |  | Delivery Carrier implementation for DHL Parcel using their API
-[delivery_gls_asm](delivery_gls_asm/) | 14.0.1.1.0 |  | Delivery Carrier implementation for GLS with ASMRed API
+[delivery_gls_asm](delivery_gls_asm/) | 14.0.1.1.1 |  | Delivery Carrier implementation for GLS with ASMRed API
 [l10n_es_account_asset](l10n_es_account_asset/) | 14.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Gestión de activos fijos para España
 [l10n_es_account_banking_sepa_fsdd](l10n_es_account_banking_sepa_fsdd/) | 14.0.1.0.0 |  | Account Banking Sepa - FSDD (Anticipos de crédito)
 [l10n_es_account_statement_import_n43](l10n_es_account_statement_import_n43/) | 14.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Importación de extractos bancarios españoles (Norma 43)
@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [l10n_es_dua](l10n_es_dua/) | 14.0.1.1.0 |  | Importaciones con DUA
 [l10n_es_dua_sii](l10n_es_dua_sii/) | 14.0.1.1.0 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_facturae](l10n_es_facturae/) | 14.0.2.0.0 |  | Creación de Factura-e
-[l10n_es_facturae_face](l10n_es_facturae_face/) | 14.0.1.0.0 |  | Envío de Factura-e a FACe
+[l10n_es_facturae_face](l10n_es_facturae_face/) | 14.0.1.1.0 |  | Envío de Factura-e a FACe
 [l10n_es_intrastat_report](l10n_es_intrastat_report/) | 14.0.2.1.0 |  | Spanish Intrastat Product Declaration
 [l10n_es_irnr](l10n_es_irnr/) | 14.0.1.0.0 |  | Retenciones IRNR (No residentes)
 [l10n_es_location_nuts](l10n_es_location_nuts/) | 14.0.1.0.0 |  | NUTS specific options for Spain
