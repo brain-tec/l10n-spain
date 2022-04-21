@@ -14,6 +14,7 @@ setuptools.setup(
         'odoo-addon-l10n_es_aeat_mod115>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_aeat_mod123>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_aeat_mod303>=15.0dev,<15.1dev',
+        'odoo-addon-l10n_es_aeat_mod303_oss>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_aeat_mod347>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_aeat_mod349>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_aeat_mod390>=15.0dev,<15.1dev',
@@ -29,6 +30,7 @@ setuptools.setup(
         'odoo-addon-l10n_es_partner_mercantil>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_toponyms>=15.0dev,<15.1dev',
         'odoo-addon-l10n_es_vat_book>=15.0dev,<15.1dev',
+        'odoo-addon-l10n_es_vat_book_oss>=15.0dev,<15.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
