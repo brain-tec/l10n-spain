@@ -1,10 +1,10 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* l10n_es_irnr
+# 	* l10n_es_aeat_sii_oss
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 14.0\n"
+"Project-Id-Version: Odoo Server 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: 2022-05-20 18:05+0000\n"
 "Last-Translator: jabelchi <jabelchi@gmail.com>\n"
@@ -16,12 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#. module: l10n_es_irnr
-#: model:account.tax.group,name:l10n_es_irnr.tax_group_irnr_ue
-msgid "Retenciones no residentes UE"
-msgstr "Retencions no residents UE"
-
-#. module: l10n_es_irnr
-#: model:account.tax.group,name:l10n_es_irnr.tax_group_irnr_no_ue
-msgid "Retenciones no residentes no-UE"
-msgstr "Retencions no residents no-UE"
+#. module: l10n_es_aeat_sii_oss
+#: model:ir.model,name:l10n_es_aeat_sii_oss.model_account_move
+msgid "Journal Entry"
+msgstr "Apunt comptable"
