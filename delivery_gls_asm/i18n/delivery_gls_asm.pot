@@ -468,6 +468,11 @@ msgid "GLS Manifest"
 msgstr ""
 
 #. module: delivery_gls_asm
+#: model:ir.model.fields,field_description:delivery_gls_asm.field_stock_picking__gls_asm_picking_ref
+msgid "GLS Picking Reference"
+msgstr ""
+
+#. module: delivery_gls_asm
 #: code:addons/delivery_gls_asm/models/delivery_carrier.py:0
 #, python-format
 msgid "GLS Pickup extra info:<br/> Tracking number: %s<br/> Bultos: %s"
