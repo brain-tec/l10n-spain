@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_promissory_note_bankia](account_promissory_note_bankia/) | 13.0.1.0.0 |  | Impresión de pagaré Bankia A4
 [account_promissory_note_caixabank](account_promissory_note_caixabank/) | 13.0.1.0.1 |  | Impresión de pagaré CaixaBank A4
-[delivery_dhl_parcel](delivery_dhl_parcel/) | 13.0.1.2.1 |  | Delivery Carrier implementation for DHL Parcel using their API
+[delivery_dhl_parcel](delivery_dhl_parcel/) | 13.0.1.3.1 |  | Delivery Carrier implementation for DHL Parcel using their API
 [delivery_gls_asm](delivery_gls_asm/) | 13.0.1.1.0 |  | Delivery Carrier implementation for GLS with ASMRed API
 [delivery_seur](delivery_seur/) | 13.0.1.1.2 |  | Integrate SEUR webservice
 [ecoembes](ecoembes/) | 13.0.1.2.0 |  | Add some data related to ecoembes.com
@@ -35,8 +35,8 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod115](l10n_es_aeat_mod115/) | 13.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 115
 [l10n_es_aeat_mod123](l10n_es_aeat_mod123/) | 13.0.1.1.0 |  | AEAT modelo 123
 [l10n_es_aeat_mod190](l10n_es_aeat_mod190/) | 13.0.1.1.2 |  | AEAT modelo 190
-[l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 13.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 216
-[l10n_es_aeat_mod296](l10n_es_aeat_mod296/) | 13.0.1.0.0 |  | AEAT modelo 296
+[l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 13.0.1.1.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 216
+[l10n_es_aeat_mod296](l10n_es_aeat_mod296/) | 13.0.1.2.0 |  | AEAT modelo 296
 [l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 13.0.3.2.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 13.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 13.0.2.1.2 |  | AEAT modelo 347
