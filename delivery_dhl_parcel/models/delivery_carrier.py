@@ -95,9 +95,10 @@ class DeliveryCarrier(models.Model):
         :returns dict values for the connector
         """
         self.ensure_one()
+        # El peso debe tener 2 decimales para evitar errores en el cierre del día
+        weight = round(picking.shipping_weight, 2)
         # El peso del envío tiene que ser como mínimo 1 kilo o como máximo 99999 kilos
-        weight = picking.shipping_weight
-        if float_compare(weight, 1, precision_digits=3) == -1:
+        if float_compare(weight, 1, precision_digits=2) == -1:
             weight = 1
         return {
             "Customer": self.dhl_parcel_customer_code,
@@ -269,7 +270,9 @@ class DeliveryCarrier(models.Model):
     def action_open_end_day(self):
         """Action to launch the end day wizard"""
         self.ensure_one()
-        wizard = self.env["dhl.parcel.endday.wizard"].create({"carrier_id": self.id})
+        wizard = self.env["dhl.parcel.endday.wizard"].create(
+            {"carrier_id": self.id, "customer_accounts": self.dhl_parcel_customer_code}
+        )
         view_id = self.env.ref("delivery_dhl_parcel.delivery_endday_wizard_form").id
         return {
             "name": _("DHL Parcel End Day"),
