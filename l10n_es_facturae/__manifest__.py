@@ -6,8 +6,8 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Creación de Factura-e",
-    "version": "14.0.2.1.1",
+    "name": "Creación de Facturae",
+    "version": "14.0.2.2.0",
     "author": "ASR-OSS, "
     "FactorLibre, "
     "Tecon, "
