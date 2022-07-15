@@ -174,6 +174,10 @@ Contributors
   * David Vidal
   * Víctor Martínez
 
+* `Studio73 <https://www.studio73.es>`_:
+
+  * Ethan Hildick
+
 Maintainers
 ~~~~~~~~~~~
 
@@ -186,6 +190,17 @@ This module is maintained by the OCA.
 OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
+
+.. |maintainer-chienandalu| image:: https://github.com/chienandalu.png?size=40px
+    :target: https://github.com/chienandalu
+    :alt: chienandalu
+.. |maintainer-hildickethan-S73| image:: https://github.com/hildickethan-S73.png?size=40px
+    :target: https://github.com/hildickethan-S73
+    :alt: hildickethan-S73
+
+Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
+
+|maintainer-chienandalu| |maintainer-hildickethan-S73| 
 
 This module is part of the `OCA/l10n-spain <https://github.com/OCA/l10n-spain/tree/14.0/delivery_gls_asm>`_ project on GitHub.
 
