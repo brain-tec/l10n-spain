@@ -1111,6 +1111,15 @@ msgstr ""
 #. module: l10n_es_aeat_sii_oca
 #: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
 #, python-format
+msgid ""
+"You cannot change the third-party number of an invoice already registered at"
+" the SII. You must cancel the invoice and create a new one with the correct "
+"number"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
 msgid "You cannot delete an invoice already registered at the SII."
 msgstr ""
 
