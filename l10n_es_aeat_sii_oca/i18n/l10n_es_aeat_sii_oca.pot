@@ -1087,34 +1087,8 @@ msgstr ""
 #: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
 #, python-format
 msgid ""
-"You cannot change the invoice date of an invoice already registered at the "
-"SII. You must cancel the invoice and create a new one with the correct date"
-msgstr ""
-
-#. module: l10n_es_aeat_sii_oca
-#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
-#, python-format
-msgid ""
-"You cannot change the supplier invoice number of an invoice already "
-"registered at the SII. You must cancel the invoice and create a new one with"
-" the correct number"
-msgstr ""
-
-#. module: l10n_es_aeat_sii_oca
-#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
-#, python-format
-msgid ""
-"You cannot change the supplier of an invoice already registered at the SII. "
-"You must cancel the invoice and create a new one with the correct supplier"
-msgstr ""
-
-#. module: l10n_es_aeat_sii_oca
-#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
-#, python-format
-msgid ""
-"You cannot change the third-party number of an invoice already registered at"
-" the SII. You must cancel the invoice and create a new one with the correct "
-"number"
+"You cannot change the %s of an invoice already registered at the SII. You "
+"must cancel the invoice and create a new one with the correct value"
 msgstr ""
 
 #. module: l10n_es_aeat_sii_oca
@@ -1191,4 +1165,34 @@ msgstr ""
 #. module: l10n_es_aeat_sii_oca
 #: model:ir.model.fields.selection,name:l10n_es_aeat_sii_oca.selection__product_template__sii_exempt_cause__e6
 msgid "[E6] Otros"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
+msgid "invoice date"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
+msgid "invoice number"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
+msgid "supplier"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
+msgid "supplier invoice number"
+msgstr ""
+
+#. module: l10n_es_aeat_sii_oca
+#: code:addons/l10n_es_aeat_sii_oca/models/account_move.py:0
+#, python-format
+msgid "third-party number"
 msgstr ""
