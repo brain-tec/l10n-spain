@@ -9,7 +9,7 @@ msgstr ""
 "PO-Revision-Date: 2022-08-02 11:06+0000\n"
 "Last-Translator: olatzavanzosc <olatzaranguren@avanzosc.es>\n"
 "Language-Team: none\n"
-"Language: es\n"
+"Language: eu_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -19,9 +19,9 @@ msgstr ""
 #. module: l10n_es_dua_ticketbai_batuz
 #: model:ir.model,name:l10n_es_dua_ticketbai_batuz.model_account_invoice
 msgid "Invoice"
-msgstr "Factura"
+msgstr "Faktura"
 
 #. module: l10n_es_dua_ticketbai_batuz
 #: model:ir.model.fields,field_description:l10n_es_dua_ticketbai_batuz.field_account_invoice_tbai_dua_invoice
 msgid "TBAI DUA Invoice"
-msgstr "TBAI DUA Factura"
+msgstr "TBAI DUA Faktura"
