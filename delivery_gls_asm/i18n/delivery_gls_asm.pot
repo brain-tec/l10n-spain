@@ -704,6 +704,11 @@ msgid "Unknown"
 msgstr ""
 
 #. module: delivery_gls_asm
+#: model:ir.model.fields,field_description:delivery_gls_asm.field_delivery_carrier__gls_asm_use_packages_from_picking
+msgid "Use packages from picking"
+msgstr ""
+
+#. module: delivery_gls_asm
 #: model:ir.model.fields.selection,name:delivery_gls_asm.selection__delivery_carrier__gls_asm_service__2
 msgid "VALIJA"
 msgstr ""
