@@ -7,7 +7,7 @@
 
 {
     "name": "Creación de Factura-e",
-    "version": "13.0.2.2.2",
+    "version": "13.0.2.3.0",
     "author": "ASR-OSS, "
     "FactorLibre, "
     "Tecon, "
@@ -28,6 +28,7 @@
         "report_qweb_parameter",
     ],
     "data": [
+        "security/ir.model.access.csv",
         "data/account_tax_template.xml",
         "views/res_partner_view.xml",
         "views/res_company.xml",
