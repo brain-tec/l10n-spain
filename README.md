@@ -28,6 +28,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod111](l10n_es_aeat_mod111/) | 15.0.1.0.0 |  | AEAT modelo 111
 [l10n_es_aeat_mod115](l10n_es_aeat_mod115/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 115
 [l10n_es_aeat_mod123](l10n_es_aeat_mod123/) | 15.0.1.0.0 |  | AEAT modelo 123
+[l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 216
 [l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 15.0.2.3.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 15.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 15.0.1.1.0 |  | AEAT modelo 347
@@ -41,7 +42,7 @@ addon | version | maintainers | summary
 [l10n_es_dua_sii](l10n_es_dua_sii/) | 15.0.1.0.1 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_facturae](l10n_es_facturae/) | 15.0.1.2.3 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Creación de Facturae
 [l10n_es_facturae_face](l10n_es_facturae_face/) | 15.0.1.2.2 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Envío de Facturae a FACe
-[l10n_es_irnr](l10n_es_irnr/) | 15.0.1.0.0 |  | Retenciones IRNR (No residentes)
+[l10n_es_irnr](l10n_es_irnr/) | 15.0.1.0.1 |  | Retenciones IRNR (No residentes)
 [l10n_es_mis_report](l10n_es_mis_report/) | 15.0.1.0.1 |  | Plantillas MIS Builder para informes contables españoles
 [l10n_es_partner](l10n_es_partner/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Adaptación de los clientes, proveedores y bancos para España
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 15.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
