@@ -144,6 +144,11 @@ msgid "Ecoembes Inscription"
 msgstr ""
 
 #. module: ecoembes
+#: model:res.groups,name:ecoembes.group_ecoembes_manager
+msgid "Ecoembes Manager"
+msgstr ""
+
+#. module: ecoembes
 #: model:ir.model.fields,field_description:ecoembes.field_res_company__ecoembes_partner_member
 msgid "Ecoembes Partner Member"
 msgstr ""

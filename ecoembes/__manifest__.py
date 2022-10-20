@@ -8,7 +8,7 @@
     "website": "https://github.com/OCA/l10n-spain",
     "license": "AGPL-3",
     "category": "Tools",
-    "version": "13.0.1.2.1",
+    "version": "13.0.1.3.0",
     "depends": ["account"],
     "data": [
         "data/ecoembes.market.type.csv",
@@ -16,6 +16,7 @@
         "data/ecoembes.packaging.csv",
         "data/ecoembes.sector.csv",
         "data/ecoembes.submaterial.csv",
+        "security/groups.xml",
         "security/ir.model.access.csv",
         "views/ecoembes_market_type_view.xml",
         "views/ecoembes_material_view.xml",
