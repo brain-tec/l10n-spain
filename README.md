@@ -31,7 +31,8 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod115](l10n_es_aeat_mod115/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 115
 [l10n_es_aeat_mod123](l10n_es_aeat_mod123/) | 15.0.1.0.0 |  | AEAT modelo 123
 [l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 216
-[l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 15.0.2.3.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
+[l10n_es_aeat_mod296](l10n_es_aeat_mod296/) | 15.0.1.0.0 |  | AEAT modelo 296
+[l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 15.0.2.3.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 15.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 15.0.1.1.0 |  | AEAT modelo 347
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 15.0.1.3.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 349
@@ -51,11 +52,11 @@ addon | version | maintainers | summary
 [l10n_es_partner](l10n_es_partner/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Adaptación de los clientes, proveedores y bancos para España
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 15.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_pos](l10n_es_pos/) | 15.0.1.0.0 |  | Punto de venta adaptado a la legislación española
-[l10n_es_ticketbai](l10n_es_ticketbai/) | 15.0.1.4.2 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
-[l10n_es_ticketbai_api](l10n_es_ticketbai_api/) | 15.0.1.1.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - API
+[l10n_es_ticketbai](l10n_es_ticketbai/) | 15.0.1.4.3 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
+[l10n_es_ticketbai_api](l10n_es_ticketbai_api/) | 15.0.1.1.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - API
 [l10n_es_ticketbai_api_batuz](l10n_es_ticketbai_api_batuz/) | 15.0.1.0.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI (API) - Batuz - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas en Bizkaia
-[l10n_es_ticketbai_batuz](l10n_es_ticketbai_batuz/) | 15.0.1.1.1 | [![Binovo](https://github.com/Binovo.png?size=30px)](https://github.com/Binovo) [![enriquemartin](https://github.com/enriquemartin.png?size=30px)](https://github.com/enriquemartin) [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Batuz - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas en Bizkaia
-[l10n_es_ticketbai_pos](l10n_es_ticketbai_pos/) | 15.0.1.0.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Point of Sale - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
+[l10n_es_ticketbai_batuz](l10n_es_ticketbai_batuz/) | 15.0.1.1.2 | [![Binovo](https://github.com/Binovo.png?size=30px)](https://github.com/Binovo) [![enriquemartin](https://github.com/enriquemartin.png?size=30px)](https://github.com/enriquemartin) [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Batuz - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas en Bizkaia
+[l10n_es_ticketbai_pos](l10n_es_ticketbai_pos/) | 15.0.1.0.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Point of Sale - declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
 [l10n_es_toponyms](l10n_es_toponyms/) | 15.0.1.0.0 |  | Topónimos españoles
 [l10n_es_vat_book](l10n_es_vat_book/) | 15.0.2.3.0 |  | Libro de IVA
 [l10n_es_vat_book_oss](l10n_es_vat_book_oss/) | 15.0.1.0.0 |  | Libro de IVA OSS
