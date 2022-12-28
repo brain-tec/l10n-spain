@@ -9,7 +9,12 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-l10n_es_aeat>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_es_aeat_mod115>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_es_aeat_mod303>=16.0dev,<16.1dev',
         'odoo-addon-l10n_es_aeat_mod347>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_es_aeat_mod390>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_es_irnr>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_es_partner>=16.0dev,<16.1dev',
         'odoo-addon-l10n_es_partner_mercantil>=16.0dev,<16.1dev',
         'odoo-addon-l10n_es_toponyms>=16.0dev,<16.1dev',
         'odoo-addon-l10n_es_vat_book>=16.0dev,<16.1dev',
