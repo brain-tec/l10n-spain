@@ -4,7 +4,7 @@
 
 {
     "name": "TicketBAI - API",
-    "version": "14.0.2.3.5",
+    "version": "14.0.2.3.6",
     "category": "Accounting & Finance",
     "website": "https://github.com/OCA/l10n-spain",
     "author": "Binovo," "Odoo Community Association (OCA)",
@@ -17,7 +17,8 @@
     "depends": ["base", "base_setup"],
     "external_dependencies": {
         "python": [
-            "cryptography",
+            # for compatibility with urllib shipped with Odoo 14
+            "cryptography<39",
             "pyOpenSSL",
             "qrcode",
             "xmlsig",
