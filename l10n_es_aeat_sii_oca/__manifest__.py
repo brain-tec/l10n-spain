@@ -5,7 +5,6 @@
 # Copyright 2017 Studio73 - Jordi Tolsà <jordi@studio73.es>
 # Copyright 2017 Factor Libre - Ismael Calvo
 # Copyright 2017 Otherway - Pedro Rodríguez Gil
-# Copyright 2017-2021 Tecnativa - Pedro M. Baeza
 # Copyright 2018 Javi Melendez <javimelex@gmail.com>
 # Copyright 2018 Angel Moya <angel.moya@pesol.es>
 # Copyright 2020 Sygel Technology - Valentín Vinagre <valentin.vinagre@sygel.es>
@@ -13,11 +12,12 @@
 # Copyright 2022 ForgeFlow - Lois Rilo
 # Copyright 2022 Moduon - Eduardo de Miguel
 # Copyright 2022 NuoBiT - Eric Antones <eantones@nuobit.com>
+# Copyright 2017-2023 Tecnativa - Pedro M. Baeza
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
     "name": "Suministro Inmediato de Información en el IVA",
-    "version": "14.0.2.6.2",
+    "version": "14.0.2.7.0",
     "category": "Accounting & Finance",
     "website": "https://github.com/OCA/l10n-spain",
     "author": "Acysos S.L.,"
