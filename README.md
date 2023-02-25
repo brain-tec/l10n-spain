@@ -41,14 +41,14 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 15.0.2.1.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 390
 [l10n_es_aeat_mod390_oss](l10n_es_aeat_mod390_oss/) | 15.0.1.0.0 |  | AEAT modelo 390 - OSS
 [l10n_es_aeat_partner_check](l10n_es_aeat_partner_check/) | 15.0.1.1.1 |  | AEAT - Comprobación de Calidad de datos identificativos
-[l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 15.0.2.11.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
+[l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 15.0.2.11.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
 [l10n_es_aeat_sii_oss](l10n_es_aeat_sii_oss/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA: OSS
 [l10n_es_dua](l10n_es_dua/) | 15.0.1.1.0 |  | Importaciones con DUA
 [l10n_es_dua_sii](l10n_es_dua_sii/) | 15.0.1.0.1 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_dua_ticketbai_batuz](l10n_es_dua_ticketbai_batuz/) | 15.0.1.0.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Batuz con DUA
 [l10n_es_facturae](l10n_es_facturae/) | 15.0.1.4.2 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Creación de Facturae
 [l10n_es_facturae_face](l10n_es_facturae_face/) | 15.0.1.2.3 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Envío de Facturae a FACe
-[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 15.0.2.0.0 |  | Spanish Intrastat Product Declaration
+[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 15.0.2.0.1 |  | Spanish Intrastat Product Declaration
 [l10n_es_irnr](l10n_es_irnr/) | 15.0.1.0.1 |  | Retenciones IRNR (No residentes)
 [l10n_es_mis_report](l10n_es_mis_report/) | 15.0.1.0.1 |  | Plantillas MIS Builder para informes contables españoles
 [l10n_es_partner](l10n_es_partner/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Adaptación de los clientes, proveedores y bancos para España
