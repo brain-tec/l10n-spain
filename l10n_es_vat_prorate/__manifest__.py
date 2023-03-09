@@ -5,11 +5,11 @@
     "name": "Prorrata de IVA",
     "summary": """
         Prorrata de IVA para la localización española""",
-    "version": "14.0.1.0.1",
+    "version": "14.0.1.0.2",
     "license": "AGPL-3",
     "author": "Creu Blanca,Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/l10n-spain",
-    "depends": ["l10n_es"],
+    "depends": ["l10n_es_aeat"],
     "data": [
         "security/ir.model.access.csv",
         "data/account_template_tax.xml",
