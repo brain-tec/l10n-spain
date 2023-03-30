@@ -6,7 +6,7 @@
     "author": "Landoo Sistemas de Información S.L, " "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/l10n-spain",
     "license": "AGPL-3",
-    "version": "14.0.1.0.1",
+    "version": "14.0.1.1.0",
     "maintainers": ["ao-landoo"],
     "depends": ["l10n_es_pos"],
     "data": [
@@ -17,7 +17,6 @@
         "views/res_config_views.xml",
     ],
     "qweb": [
-        "static/src/xml/pos.xml",
         "static/src/xml/Screens/Chrome/Chrome.xml",
         "static/src/xml/Screens/Chrome/DeviceName.xml",
     ],
