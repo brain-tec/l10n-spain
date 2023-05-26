@@ -153,7 +153,6 @@ Contributors
 * `Sygel <https://www.sygel.es>`__:
 
   * Valentin Vinagre
-* Rafa Martínez - Punt Sistemes S.L.U. <rmartinez@puntsistemes.es>
 * Eduardo de Miguel (edu@moduon.team)
 
 Maintainers
