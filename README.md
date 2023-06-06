@@ -38,7 +38,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 14.0.4.3.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 14.0.1.1.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod303_vat_prorate](l10n_es_aeat_mod303_vat_prorate/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Prorrata de IVA [303]
-[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 14.0.2.3.0 |  | AEAT modelo 347
+[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 14.0.2.4.0 |  | AEAT modelo 347
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 14.0.1.4.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 349
 [l10n_es_aeat_mod369](l10n_es_aeat_mod369/) | 14.0.1.0.0 |  | AEAT modelo 369
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 14.0.3.2.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 390
@@ -62,7 +62,7 @@ addon | version | maintainers | summary
 [l10n_es_partner](l10n_es_partner/) | 14.0.1.0.3 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Adaptación de los clientes, proveedores y bancos para España
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 14.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_payment_order_confirming_sabadell](l10n_es_payment_order_confirming_sabadell/) | 14.0.1.0.3 |  | Exportación de fichero bancario Confirming para Banco Sabadell
-[l10n_es_pos](l10n_es_pos/) | 14.0.3.2.1 |  | Punto de venta adaptado a la legislación española
+[l10n_es_pos](l10n_es_pos/) | 14.0.3.2.2 |  | Punto de venta adaptado a la legislación española
 [l10n_es_pos_by_device](l10n_es_pos_by_device/) | 14.0.1.1.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Punto de venta adaptado a la legislación española por dispositivo
 [l10n_es_reav](l10n_es_reav/) | 14.0.1.0.0 | [![Bilbonet](https://github.com/Bilbonet.png?size=30px)](https://github.com/Bilbonet) | REAV - Régimen Especial Agencias de Viajes
 [l10n_es_ticketbai](l10n_es_ticketbai/) | 14.0.2.9.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
