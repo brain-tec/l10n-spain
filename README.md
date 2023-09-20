@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_promissory_note_caixabank](account_promissory_note_caixabank/) | 15.0.1.0.0 |  | Impresión de pagaré CaixaBank A4
 [account_promissory_note_cajamar](account_promissory_note_cajamar/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Impresión de pagaré de Cajamar en A4
-[delivery_gls_asm](delivery_gls_asm/) | 15.0.1.0.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) [![hildickethan-S73](https://github.com/hildickethan-S73.png?size=30px)](https://github.com/hildickethan-S73) | Delivery Carrier implementation for GLS with ASMRed API
+[delivery_gls_asm](delivery_gls_asm/) | 15.0.1.1.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) [![hildickethan-S73](https://github.com/hildickethan-S73.png?size=30px)](https://github.com/hildickethan-S73) | Delivery Carrier implementation for GLS with ASMRed API
 [delivery_seur](delivery_seur/) | 15.0.1.0.0 |  | Integrate SEUR webservice
 [l10n_es_account_asset](l10n_es_account_asset/) | 15.0.1.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Gestión de activos fijos para España
 [l10n_es_account_banking_sepa_fsdd](l10n_es_account_banking_sepa_fsdd/) | 15.0.1.0.0 |  | Account Banking Sepa - FSDD (Anticipos de crédito)
@@ -46,7 +46,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_sii_oca](l10n_es_aeat_sii_oca/) | 15.0.2.15.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA
 [l10n_es_aeat_sii_oss](l10n_es_aeat_sii_oss/) | 15.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Suministro Inmediato de Información en el IVA: OSS
 [l10n_es_dua](l10n_es_dua/) | 15.0.1.1.0 |  | Importaciones con DUA
-[l10n_es_dua_sii](l10n_es_dua_sii/) | 15.0.1.0.2 |  | Suministro Inmediato de Información de importaciones con DUA
+[l10n_es_dua_sii](l10n_es_dua_sii/) | 15.0.1.1.0 |  | Suministro Inmediato de Información de importaciones con DUA
 [l10n_es_dua_ticketbai_batuz](l10n_es_dua_ticketbai_batuz/) | 15.0.1.0.0 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | TicketBAI - Batuz con DUA
 [l10n_es_facturae](l10n_es_facturae/) | 15.0.1.7.3 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Creación de Facturae
 [l10n_es_facturae_face](l10n_es_facturae_face/) | 15.0.2.2.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Envío de Facturae a FACe
