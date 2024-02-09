@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* l10n_es_atc
+# 	* l10n_es_irnr
 #
 msgid ""
 msgstr ""
@@ -16,17 +16,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.17\n"
 
-#. module: l10n_es_atc
-#: model:ir.ui.menu,name:l10n_es_atc.menu_l10n_es_atc_config
-msgid "ATC"
-msgstr "ATC"
+#. module: l10n_es_irnr
+#: model:account.tax.group,name:l10n_es_irnr.tax_group_irnr_ue
+msgid "Retenciones no residentes UE"
+msgstr "Retenciones no residentes UE"
 
-#. module: l10n_es_atc
-#: model:res.groups,name:l10n_es_atc.group_account_atc
-msgid "ATC manager"
-msgstr "Gerente de ATC"
-
-#. module: l10n_es_atc
-#: model:ir.ui.menu,name:l10n_es_atc.menu_root_atc
-msgid "Declaraciones ATC"
-msgstr "Declaraciones ATC"
+#. module: l10n_es_irnr
+#: model:account.tax.group,name:l10n_es_irnr.tax_group_irnr_no_ue
+msgid "Retenciones no residentes no-UE"
+msgstr "Retenciones no residentes no-UE"
