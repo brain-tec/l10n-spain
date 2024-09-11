@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [delivery_dhl_parcel](delivery_dhl_parcel/) | 14.0.2.0.0 | [![hildickethan-S73](https://github.com/hildickethan-S73.png?size=30px)](https://github.com/hildickethan-S73) | Delivery Carrier implementation for DHL Parcel using their API
 [delivery_gls_asm](delivery_gls_asm/) | 14.0.1.7.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) [![hildickethan-S73](https://github.com/hildickethan-S73.png?size=30px)](https://github.com/hildickethan-S73) | Delivery Carrier implementation for GLS with ASMRed API
-[delivery_mrw](delivery_mrw/) | 14.0.1.1.3 |  | Delivery Carrier implementation for MRW with SAGEC API
+[delivery_mrw](delivery_mrw/) | 14.0.1.1.4 |  | Delivery Carrier implementation for MRW with SAGEC API
 [delivery_seur](delivery_seur/) | 14.0.1.0.0 |  | Integrate SEUR webservice
 [l10n_es_account_asset](l10n_es_account_asset/) | 14.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Gestión de activos fijos para España
 [l10n_es_account_banking_sepa_fsdd](l10n_es_account_banking_sepa_fsdd/) | 14.0.1.0.0 |  | Account Banking Sepa - FSDD (Anticipos de crédito)
@@ -65,7 +65,7 @@ addon | version | maintainers | summary
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 14.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_payment_order_confirming_aef](l10n_es_payment_order_confirming_aef/) | 14.0.1.0.5 |  | Exportación de fichero bancario Confirming estándar AEF
 [l10n_es_payment_order_confirming_sabadell](l10n_es_payment_order_confirming_sabadell/) | 14.0.1.0.4 |  | Exportación de fichero bancario Confirming para Banco Sabadell
-[l10n_es_pos](l10n_es_pos/) | 14.0.3.2.3 |  | Punto de venta adaptado a la legislación española
+[l10n_es_pos](l10n_es_pos/) | 14.0.3.3.0 |  | Punto de venta adaptado a la legislación española
 [l10n_es_pos_by_device](l10n_es_pos_by_device/) | 14.0.1.1.1 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Punto de venta adaptado a la legislación española por dispositivo
 [l10n_es_reav](l10n_es_reav/) | 14.0.1.0.0 | [![Bilbonet](https://github.com/Bilbonet.png?size=30px)](https://github.com/Bilbonet) | REAV - Régimen Especial Agencias de Viajes
 [l10n_es_ticketbai](l10n_es_ticketbai/) | 14.0.2.9.3 | [![ao-landoo](https://github.com/ao-landoo.png?size=30px)](https://github.com/ao-landoo) | Declaración de todas las operaciones de venta realizadas por las personas y entidades que desarrollan actividades económicas
@@ -77,7 +77,7 @@ addon | version | maintainers | summary
 [l10n_es_vat_book](l10n_es_vat_book/) | 14.0.2.8.1 |  | Libro de IVA
 [l10n_es_vat_book_invoice_summary](l10n_es_vat_book_invoice_summary/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Facturas resumen en libro de IVA
 [l10n_es_vat_book_oss](l10n_es_vat_book_oss/) | 14.0.1.0.0 |  | Libro de IVA OSS
-[l10n_es_vat_prorate](l10n_es_vat_prorate/) | 14.0.2.0.2 |  | Prorrata de IVA para la localización española
+[l10n_es_vat_prorate](l10n_es_vat_prorate/) | 14.0.2.1.0 |  | Prorrata de IVA para la localización española
 [payment_redsys](payment_redsys/) | 14.0.2.0.4 |  | Payment Acquirer: Redsys Implementation
 
 [//]: # (end addons)
