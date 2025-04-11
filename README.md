@@ -36,7 +36,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 16.0.2.11.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 16.0.1.1.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod303_vat_prorate](l10n_es_aeat_mod303_vat_prorate/) | 16.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Prorrata de IVA [303]
-[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 16.0.1.10.4 |  | AEAT modelo 347
+[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 16.0.1.10.5 |  | AEAT modelo 347
 [l10n_es_aeat_mod347_igic](l10n_es_aeat_mod347_igic/) | 16.0.1.0.2 | [![Christian-RB](https://github.com/Christian-RB.png?size=30px)](https://github.com/Christian-RB) | AEAT modelo 347 IGIC
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 16.0.1.4.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | AEAT modelo 349
 [l10n_es_aeat_mod369](l10n_es_aeat_mod369/) | 16.0.1.1.1 |  | AEAT modelo 369
@@ -58,7 +58,7 @@ addon | version | maintainers | summary
 [l10n_es_facturae_face](l10n_es_facturae_face/) | 16.0.1.3.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Envío de Facturae a FACe
 [l10n_es_facturae_igic](l10n_es_facturae_igic/) | 16.0.1.0.0 | [![Christian-RB](https://github.com/Christian-RB.png?size=30px)](https://github.com/Christian-RB) | Creación de Facturae IGIC
 [l10n_es_igic](l10n_es_igic/) | 16.0.1.4.0 |  | IGIC (Impuesto General Indirecto Canario
-[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 16.0.1.3.3 |  | Spanish Intrastat Product Declaration
+[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 16.0.1.3.4 |  | Spanish Intrastat Product Declaration
 [l10n_es_irnr](l10n_es_irnr/) | 16.0.1.2.1 |  | Retenciones IRNR (No residentes)
 [l10n_es_irnr_sii](l10n_es_irnr_sii/) | 16.0.1.1.0 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Suministro Inmediato de Información de importaciones con IRNR
 [l10n_es_location_nuts](l10n_es_location_nuts/) | 16.0.1.0.1 | [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) [![edlopen](https://github.com/edlopen.png?size=30px)](https://github.com/edlopen) | NUTS specific options for Spain
