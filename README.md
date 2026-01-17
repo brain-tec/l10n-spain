@@ -35,15 +35,15 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod123](l10n_es_aeat_mod123/) | 17.0.1.1.3 |  | AEAT modelo 123
 [l10n_es_aeat_mod130](l10n_es_aeat_mod130/) | 17.0.1.0.3 |  | AEAT modelo 130
 [l10n_es_aeat_mod190](l10n_es_aeat_mod190/) | 17.0.1.2.2 |  | AEAT modelo 190
-[l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 17.0.1.1.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 216
+[l10n_es_aeat_mod216](l10n_es_aeat_mod216/) | 17.0.1.1.1 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 216
 [l10n_es_aeat_mod296](l10n_es_aeat_mod296/) | 17.0.1.0.1 |  | AEAT modelo 296
-[l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 17.0.1.10.4 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 303
+[l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 17.0.1.10.5 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 17.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod303_vat_prorate](l10n_es_aeat_mod303_vat_prorate/) | 17.0.3.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Prorrata de IVA [303]
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 17.0.1.5.0 |  | AEAT modelo 347
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 17.0.1.1.5 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 349
 [l10n_es_aeat_mod369](l10n_es_aeat_mod369/) | 17.0.1.0.0 |  | AEAT modelo 369
-[l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 17.0.1.8.3 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 390
+[l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 17.0.1.9.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 390
 [l10n_es_aeat_mod390_oss](l10n_es_aeat_mod390_oss/) | 17.0.1.0.0 |  | AEAT modelo 390 - OSS
 [l10n_es_aeat_mod592](l10n_es_aeat_mod592/) | 17.0.1.0.3 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | AEAT modelo 592
 [l10n_es_aeat_partner_check](l10n_es_aeat_partner_check/) | 17.0.1.0.0 |  | AEAT - Comprobación de Calidad de datos identificativos
