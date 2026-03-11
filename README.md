@@ -41,7 +41,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 17.0.1.11.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 303
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 17.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod303_vat_prorate](l10n_es_aeat_mod303_vat_prorate/) | 17.0.3.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Prorrata de IVA [303]
-[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 17.0.1.7.1 |  | AEAT modelo 347
+[l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 17.0.1.7.2 |  | AEAT modelo 347
 [l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 17.0.1.1.5 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 349
 [l10n_es_aeat_mod369](l10n_es_aeat_mod369/) | 17.0.1.0.0 |  | AEAT modelo 369
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 17.0.1.9.3 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 390
@@ -60,11 +60,11 @@ addon | version | maintainers | summary
 [l10n_es_atc_sii_oca](l10n_es_atc_sii_oca/) | 17.0.1.0.0 |  | Suministro Inmediato de Información en el IGIC
 [l10n_es_cnae](l10n_es_cnae/) | 17.0.1.1.0 |  | Extiende los códigos NACE europeos con los CNAE españoles
 [l10n_es_facturae](l10n_es_facturae/) | 17.0.1.5.0 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Creación de Facturae
-[l10n_es_facturae_face](l10n_es_facturae_face/) | 17.0.1.0.2 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Envío de Facturae a FACe
+[l10n_es_facturae_face](l10n_es_facturae_face/) | 17.0.1.0.3 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Envío de Facturae a FACe
 [l10n_es_facturae_special_payment](l10n_es_facturae_special_payment/) | 17.0.1.1.0 | <a href='https://github.com/BernatObrador'><img src='https://github.com/BernatObrador.png' width='32' height='32' style='border-radius:50%;' alt='BernatObrador'/></a> | Facturae - Special Payment
 [l10n_es_igic](l10n_es_igic/) | 17.0.2.1.2 |  | IGIC (Impuesto General Indirecto Canario)
 [l10n_es_igic_reav](l10n_es_igic_reav/) | 17.0.1.0.3 |  | Aplicación REAV en la localización canaria
-[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 17.0.1.0.2 |  | Spanish Intrastat Product Declaration
+[l10n_es_intrastat_report](l10n_es_intrastat_report/) | 17.0.1.1.0 |  | Spanish Intrastat Product Declaration
 [l10n_es_location_nuts](l10n_es_location_nuts/) | 17.0.1.0.0 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | NUTS specific options for Spain
 [l10n_es_mis_report](l10n_es_mis_report/) | 17.0.1.0.0 |  | Plantillas MIS Builder para informes contables españoles
 [l10n_es_partner](l10n_es_partner/) | 17.0.1.0.7 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Adaptación de los clientes, proveedores y bancos para España
