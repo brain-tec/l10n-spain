@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [l10n_es_aeat_mod303_oss](l10n_es_aeat_mod303_oss/) | 18.0.1.0.0 |  | AEAT modelo 303 - OSS
 [l10n_es_aeat_mod303_vat_prorate](l10n_es_aeat_mod303_vat_prorate/) | 18.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Prorrata de IVA [303]
 [l10n_es_aeat_mod347](l10n_es_aeat_mod347/) | 18.0.1.2.4 |  | AEAT modelo 347
-[l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 18.0.1.1.2 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 349
+[l10n_es_aeat_mod349](l10n_es_aeat_mod349/) | 18.0.1.1.3 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 349
 [l10n_es_aeat_mod369](l10n_es_aeat_mod369/) | 18.0.1.0.2 |  | AEAT modelo 369
 [l10n_es_aeat_mod390](l10n_es_aeat_mod390/) | 18.0.1.1.5 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 390
 [l10n_es_aeat_mod390_oss](l10n_es_aeat_mod390_oss/) | 18.0.1.0.0 |  | AEAT modelo 390 - OSS
@@ -59,7 +59,7 @@ addon | version | maintainers | summary
 [l10n_es_atc_mod425](l10n_es_atc_mod425/) | 18.0.1.0.1 | <a href='https://github.com/nicolasramos'><img src='https://github.com/nicolasramos.png' width='32' height='32' style='border-radius:50%;' alt='nicolasramos'/></a> | ATC Modelo 425
 [l10n_es_atc_sii_oca](l10n_es_atc_sii_oca/) | 18.0.1.0.1 |  | Suministro Inmediato de Información en el IGIC
 [l10n_es_cnae](l10n_es_cnae/) | 18.0.1.0.0 |  | Extiende los códigos NACE europeos con los CNAE españoles
-[l10n_es_digital_canon](l10n_es_digital_canon/) | 18.0.1.0.1 |  | Aplicación automática del canon digital en facturas, ventas y compras
+[l10n_es_digital_canon](l10n_es_digital_canon/) | 18.0.1.0.2 | <a href='https://github.com/juancarlosonate-tecnativa'><img src='https://github.com/juancarlosonate-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='juancarlosonate-tecnativa'/></a> | Aplicación automática del canon digital en facturas, ventas y compras
 [l10n_es_digital_canon_report](l10n_es_digital_canon_report/) | 18.0.1.0.0 |  | Generate XLSX reports for digital canon operations
 [l10n_es_digital_canon_website_sale](l10n_es_digital_canon_website_sale/) | 18.0.1.0.2 |  | Display the Spanish digital canon separately in the website cart total
 [l10n_es_facturae](l10n_es_facturae/) | 18.0.1.3.1 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Creación de Facturae
